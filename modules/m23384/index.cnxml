@@ -1,0 +1,465 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Let's make a puppet</title>
+  <metadata>
+  <md:content-id>m23384</md:content-id><md:title>Let's make a puppet</md:title>
+  <md:abstract/>
+  <md:uuid>58461673-24e2-4583-b4c8-6da92eace59e</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1163972179853">
+      <title>TECHNOLOGY</title>
+      <para id="para-id1163972179853">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1163962861784">
+      <title>Grade 5</title>
+      <para id="para-id1163962861784">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1163963344228">
+      <title>MACHINES MADE EASY</title>
+      <para id="para-id1163963344228">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1163964006666">
+      <title>Module 3</title>
+      <para id="para-id1163964006666">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1163963060814">
+      <title>LET’S MAKE A PUPPET</title>
+      <list id="id1163962766813" list-type="enumerated" number-style="upper-alpha">
+        <item>APPLICATION</item>
+        <item>Try to open the lid of a tin of paint. Is it easier to use a short or a long screwdriver? Explain.</item>
+        <item>Where on a see-saw is the best place for a heavy person to balance a light person sitting at the other end? Why?</item>
+        <item>A person’s arms and legs are also levers. Do you agree? Give reasons for your answer.</item>
+      </list>
+      <para id="id1163962954873"><emphasis effect="bold"/>[LO 3.2]</para>
+      <para id="id1163963379313"><emphasis effect="bold">B.</emphasis> RESEARCH.</para>
+      <para id="id1163964256490">Assignment</para>
+      <list id="id1163964530070" list-type="enumerated" number-style="arabic">
+        <item>Make a poster on an A4 sheet of paper with pictures and/or sketches of the different levers. Add the necessary captions (burden, load, pivot).</item>
+        <item>What sources did you consult? (Copy the table and make a cross in the appropriate square.)</item>
+      </list>
+      <table id="id1163963564842" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Newspapers</entry>
+              <entry>ο</entry>
+              <entry>Pamphlets</entry>
+              <entry>ο</entry>
+            </row>
+            <row>
+              <entry>Magazines</entry>
+              <entry>ο</entry>
+              <entry>Experts</entry>
+              <entry>ο</entry>
+            </row>
+            <row>
+              <entry>Subject literature</entry>
+              <entry>ο</entry>
+              <entry>Photos</entry>
+              <entry>ο</entry>
+            </row>
+            <row>
+              <entry>Computer</entry>
+              <entry>ο</entry>
+              <entry>Sports picture books</entry>
+              <entry>ο</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1163965184902">[LO 1.3]</para>
+      <section id="id1163964909221">
+        <title>C. MANUFACTURING – PLANNING</title>
+        <para id="id7857179"><emphasis effect="bold">Problem</emphasis>: Your teacher found this pattern (Appendix 1 on page 19) for a dancing clown in a magazine, but cannot find the instructions. He/she wants you to design your own clown. Can you help him/her?</para>
+        <list id="id1163968844204" list-type="enumerated" number-style="arabic">
+          <item>What material will you use to make the pattern? (Copy the table and make a cross in the appropriate square.)</item>
+        </list>
+        <table id="id1163964842132" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>Cardboard</entry>
+                <entry>ο</entry>
+                <entry>Clay</entry>
+                <entry>ο</entry>
+              </row>
+              <row>
+                <entry>Fabric</entry>
+                <entry>ο</entry>
+                <entry>Glass</entry>
+                <entry>ο</entry>
+              </row>
+              <row>
+                <entry>Plastic</entry>
+                <entry>ο</entry>
+                <entry>Wood</entry>
+                <entry>ο</entry>
+              </row>
+              <row>
+                <entry>Metal</entry>
+                <entry>ο</entry>
+                <entry>Thick paper</entry>
+                <entry>ο</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1163964237648">Give reasons for your choices. Write out the sentences, completing each of them as follows:</para>
+        <para id="id1163967624959">I use this material because ___ </para>
+        <list id="id1163975422512" list-type="enumerated" number-style="arabic">
+          <item>Which tools are you going to use to make the puppet? (Copy the table and make a cross in the appropriate square.)</item>
+        </list>
+        <table id="id1163964492684" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry>Coloured pencils</entry>
+                <entry>ο</entry>
+                <entry>Scissors</entry>
+                <entry>ο</entry>
+                <entry>Paper punch</entry>
+                <entry>ο</entry>
+              </row>
+              <row>
+                <entry>Paint</entry>
+                <entry>ο</entry>
+                <entry>Glue (Pritt)</entry>
+                <entry>ο</entry>
+                <entry>String</entry>
+                <entry>ο</entry>
+              </row>
+              <row>
+                <entry>Pastels</entry>
+                <entry>ο</entry>
+                <entry>Bostik</entry>
+                <entry>ο</entry>
+                <entry>Fishing line</entry>
+                <entry>ο</entry>
+              </row>
+              <row>
+                <entry>Koki’s</entry>
+                <entry>ο</entry>
+                <entry>Pencil</entry>
+                <entry>ο</entry>
+                <entry>Wool</entry>
+                <entry>ο</entry>
+              </row>
+              <row>
+                <entry>Charcoal</entry>
+                <entry>ο</entry>
+                <entry>Tracing paper</entry>
+                <entry>ο</entry>
+                <entry>Beads</entry>
+                <entry>ο</entry>
+              </row>
+              <row>
+                <entry>Paper punch</entry>
+                <entry>ο</entry>
+                <entry>Stapler</entry>
+                <entry>ο</entry>
+                <entry>Staples</entry>
+                <entry>ο</entry>
+              </row>
+              <row>
+                <entry>Paper clips</entry>
+                <entry>ο</entry>
+                <entry>Split pins</entry>
+                <entry>ο</entry>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1163972029668">Explain the use of each instrument. Copy and complete as follows:</para>
+        <para id="id1163964902537">I use __ to __</para>
+        <para id="id1163964072602">[LO 1.8]</para>
+        <para id="id2620152">You have two hours to complete this assignment. Set out your steps clearly, and indicate the time you require. Copy and complete the following table:</para>
+        <table id="id1163965110504" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>STEPS</entry>
+                <entry>TIME</entry>
+              </row>
+              <row>
+                <entry>1.</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>2.</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>3.</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>4.</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>5.</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>6.</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Date for handing in:</entry>
+                <entry>120 min</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1163964366699">Now make your dancing clown.</para>
+        <para id="id2617507">[LO 1.7]</para>
+        <list id="id1163965187517" list-type="enumerated" number-style="upper-alpha">
+          <item>EVALUATION (Self-assessment)</item>
+        </list>
+        <para id="id1163964279825">Evaluate yourself. Be honest. Write Yes, Unsure or No next to the respective numbers after you have completed your dancing clown.</para>
+        <table id="id1163975508764" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1163970276214" list-type="enumerated" number-style="arabic">
+                    <item>Did you know what to do?</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1163963358643" list-type="enumerated" number-style="arabic">
+                    <item>Did I complete the task without any help?</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1163965253118" list-type="enumerated" number-style="arabic">
+                    <item>Did I work thoroughly?</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1163963040880" list-type="enumerated" number-style="arabic">
+                    <item>Did I work in logical sequence?</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1163964143312" list-type="enumerated" number-style="arabic">
+                    <item>Did I work neatly?</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1163965207098" list-type="enumerated" number-style="arabic">
+                    <item>Did I use materials sparingly?</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1163969186089" list-type="enumerated" number-style="arabic">
+                    <item>Am I proud of my model?</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1163965525587" list-type="enumerated" number-style="arabic">
+                    <item>Did I enjoy making the model?</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1163968007822" list-type="enumerated" number-style="arabic">
+                    <item>Did I bring all my material and tools every time?</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1163963066296" list-type="enumerated" number-style="arabic">
+                    <item>Did I tidy up properly afterwards?</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1163965212673" list-type="enumerated" number-style="arabic">
+                    <item>Did I complete my model?</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1163962847759" list-type="enumerated" number-style="arabic">
+                    <item>Is my clown colourful, attractive and does it work properly?</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1163964321283" list-type="enumerated" number-style="arabic">
+                    <item>Did I learn something new?</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1163964310678">COMPLETE THE FOLLOWING QUESTIONS</para>
+        <list id="id1163967470558" list-type="enumerated" number-style="arabic">
+          <item>This assignment involved (levers/gears/wheels and axles). Copy the sentence and underline the correct answer.</item>
+          <item>Did you have any problems while making the clown, and if so, how did you solve them? Write down three.</item>
+          <item>Would you work in exactly the same way if you had to attempt such a project again? If your answer is <emphasis effect="italics">no</emphasis>, explain.</item>
+        </list>
+        <para id="id7955564">[LO 1.11]</para>
+        <list id="id1163963086214" list-type="enumerated" number-style="arabic">
+          <item>Ask at least five friends to write their comments (next to their names) on your model below. </item>
+        </list>
+        <para id="id1163965107967">[LO 1.10]</para>
+        <list id="id1163964560529" list-type="enumerated" number-style="upper-alpha">
+          <item>EXHIBITION</item>
+        </list>
+        <para id="id1163965224742">Assignment</para>
+        <para id="id7842060">Decide as a class which five learners’ clowns are the best and show them to other classes and to the principal. Someone might want to buy them!</para>
+        <figure id="id1163963376020">
+          <media id="id1163963376020_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-2020.png" id="id1163963376020__onlineimage" height="322" width="572"/>
+          </media>
+        </figure>
+        <para id="id1163970422054"><figure id="id1163969364379"><media id="id1163969364379_media" alt=""><image mime-type="image/png" src="../../media/graphics2-b7e5.png" id="id1163969364379__onlineimage" height="925" width="612"/></media></figure>Appendix 1</para>
+      </section>
+    </section>
+    <section id="id1163972103236">
+      <title>Assessment</title>
+      <para id="id1163968231456">LO 1</para>
+      <para id="id1163965274797">TECHNOLOGICAL PROCESSES AND SKILLS</para>
+      <para id="id1163965119581">The learner will be able to apply technological processes and skills ethically and responsibly, using appropriate information and communication technologies.</para>
+      <para id="id1163965168955">We know this when the learner:</para>
+      <para id="id1163971431374">Investigates:</para>
+      <para id="id1163973896856">1.2 finds out about existing products relevant to a problem, need or opportunity, and identifies some design aspects (e.g. who it is for, what it looks like, what it is for, what it is made of);</para>
+      <list id="id1163965138448" list-type="bulleted">
+        <item>performs, where appropriate, scientific investigations about concepts relevant to a problem, need or opportunity using science process skills:</item>
+      </list>
+      <para id="id1163970427891">1.3.1 planning investigations;</para>
+      <list id="id1163974931636" list-type="bulleted">
+        <item>conducting investigations;</item>
+      </list>
+      <para id="id1163963412356">1.3.3 processing and interpreting data;</para>
+      <para id="id1163964813715">1.3.4 evaluating and communicating findings.</para>
+      <para id="id1163964341357">Makes:</para>
+      <para id="id1163965011696">1.7 outlines a plan that shows the steps for making, including drawings or sketches of main parts;</para>
+      <para id="id1163971657607">1.8 uses suitable tools and materials to make products by measuring out, cutting or separating, shaping or forming, joining or combining, and finishing the chosen material;</para>
+      <para id="id1163965143041">Evaluates:</para>
+      <para id="id1163964083139">1.10 evaluates, with assistance, the product according to the design brief and given specifications and constraints (e.g. people, purpose, environment), and suggests improvements and modifications if necessary;</para>
+      <para id="id2273525">1.11 evaluates the plan of action followed and suggests improvements and modifications if necessary;</para>
+      <para id="id1163964727720">Communicates:</para>
+      <list id="id2709960" list-type="bulleted">
+        <item>produces labelled two-dimensional drawings enhanced with colour where appropriate.</item>
+      </list>
+      <para id="id1163963955763">LO 2</para>
+      <para id="id1163977462508">TECHNOLOGICAL KNOWLEDGE AND UNDERSTANDING</para>
+      <para id="id1163971702401">The learner will be able to understand and apply relevant technological knowledge ethically and responsibly.</para>
+      <para id="id1163967695583">We know this when the learner:</para>
+      <para id="id1163965148658">Systems and control:</para>
+      <list id="id1163963781590" list-type="bulleted">
+        <item>demonstrates knowledge and understanding of how to use energy sources to power mechanical systems in order to make a product move in some way.</item>
+      </list>
+      <para id="id1163965207491"/>
+      <para id="id1163967397959">We know this when the learner:</para>
+      <para id="id1163971721878">3.1 recognises how products and technologies have been adapted from other times and cultures;</para>
+      <para id="id1163963239991">3.2 identifies possible positive and negative effects of scientific developments or technological products on the quality of people’s lives and/or the health environment.</para>
+    </section>
+    <section id="id1163964654426">
+      <title>Memorandum</title>
+      <para id="id1163965351412">(A)</para>
+      <para id="id1163968878415">1. A longer screwdriver provides a more efficient lever. The longer the lever, the bigger the force applied on the load.</para>
+      <para id="id1163968675895">2. The heavier person should sit as close to the fulcrum as possible so that the load will not be too heavy.</para>
+      <para id="id1163968694518">3. Yes. Little children love to do “horse riding” on an adult’s foot. The person’s leg rotates round a fulcrum (knee, hip) and this creates enough force to control the load.</para>
+    </section>
+  </content>
+</document>
