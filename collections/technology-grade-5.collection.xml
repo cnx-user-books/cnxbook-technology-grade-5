@@ -1,3 +1,48 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10979</md:content-id>  <md:title>Technology Grade 5</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>31888644-bd15-4a4c-ae6f-6488c55e316e</md:uuid>
-<md:slug>technology-grade-5</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Term 1</md:title>                                <col:content>                    <col:module document="m23381"/>                            <col:module document="m23382"/>                            <col:module document="m23384"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 2</md:title>                                <col:content>                    <col:module document="m23419"/>                            <col:module document="m23421"/>                            <col:module document="m23422"/>                            <col:module document="m23428"/>                            <col:module document="m23435"/>                            <col:module document="m23440"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 3</md:title>                                <col:content>                    <col:module document="m25805"/>                            <col:module document="m25806"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 4</md:title>                                <col:content>                    <col:module document="m25804"/>                            <col:module document="m26151"/>                            <col:module document="m26164"/>                            <col:module document="m26169"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Siyavula Uploaders">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10979</md:content-id>
+    <md:title>Technology Grade 5</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>31888644-bd15-4a4c-ae6f-6488c55e316e</md:uuid>
+    <md:slug>technology-grade-5</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Term 1</md:title>
+      <col:content>
+        <col:module document="m23381"/>
+        <col:module document="m23382"/>
+        <col:module document="m23384"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 2</md:title>
+      <col:content>
+        <col:module document="m23419"/>
+        <col:module document="m23421"/>
+        <col:module document="m23422"/>
+        <col:module document="m23428"/>
+        <col:module document="m23435"/>
+        <col:module document="m23440"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 3</md:title>
+      <col:content>
+        <col:module document="m25805"/>
+        <col:module document="m25806"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 4</md:title>
+      <col:content>
+        <col:module document="m25804"/>
+        <col:module document="m26151"/>
+        <col:module document="m26164"/>
+        <col:module document="m26169"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
